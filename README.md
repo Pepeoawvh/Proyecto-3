@@ -27,7 +27,7 @@ Vinculo para visualizar la Pagina Web: [Enlace] (https://diegopm90.github.io/Pro
 El desarrollo de este proyecto contempló comunicación diaria y reuniones, además de revisiones constantes del código. 
 Utilizamos GitHub como plataforma principal para el control de versiones y la colaboración, aprovechando la creación de ramas individuales para cada miembro, así como la realización periódica de pull requests y merges.
 
-En el proceso se dieron muchos cambios debido a la dificultad de encontrar un propósito adecuado para la información que queríamos acceder, por esto, la propuesta fue cambiando desde su inicio, comenzando por ser una propuesta para sitio de compración de productos electronicos, hasta que finalmente se seleccionó la API de "huachitos.cl"
+En el proceso se dieron muchos cambios debido a la dificultad de encontrar un propósito adecuado para la información que queríamos acceder, por esto, la propuesta fue cambiando desde su inicio, comenzando por ser una propuesta para sitio de comparación de productos electronicos, hasta que finalmente se seleccionó la API de "huachitos.cl"
 [Aqui  se puede acceder a una carpeta con las propuestas visuales iniciales que fuimos generando.](https://drive.google.com/drive/folders/1QzNrgPkDHDxR68Xyy6c0x4Ic2pzkWyB-?usp=sharing)
 
 
